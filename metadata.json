@@ -1,0 +1,6 @@
+{
+  "name": "Cyber Horizon: Void Striker",
+  "description": "High-octane 3D sci-fi combat interceptor survival game featuring procedural PBR rendering, dynamic synth audio, telegraphed enemy encounters, and responsive flight controls.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
